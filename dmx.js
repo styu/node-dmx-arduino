@@ -8,7 +8,7 @@ function DMXDriver(path) {
     }
 
     this.path = path;
-    this.port = new SerialPort("/dev/cu.usbmodem1411", {
+    this.port = new SerialPort(path, {
         baudRate: 9600,
         dataBits: 8,
         parity: 'none',
