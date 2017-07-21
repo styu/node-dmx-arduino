@@ -1,6 +1,6 @@
 {
-  "name": "@boxaroo/node-dmx-arduino",
-  "version": "0.2.0",
+  "name": "@boxaroo/node-serial-dmx",
+  "version": "0.1.0",
   "description": "Simple library to talk to dmx driver to talk to arduino",
   "main": "dmx.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/styu/node-dmx-arduino.git"
+    "url": "git+https://github.com/styu/node-serial-dmx.git"
   },
   "keywords": [
     "dmx",
@@ -18,9 +18,9 @@
   "author": "Stephanie Yu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/styu/node-dmx-arduino/issues"
+    "url": "https://github.com/styu/node-serial-dmx/issues"
   },
-  "homepage": "https://github.com/styu/node-dmx-arduino#readme",
+  "homepage": "https://github.com/styu/node-serial-dmx#readme",
   "dependencies": {
     "serialport": "^5.0.0-beta8"
   }
