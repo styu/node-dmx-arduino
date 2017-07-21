@@ -1,6 +1,6 @@
 {
   "name": "@boxaroo/node-dmx-arduino",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Simple library to talk to dmx driver to talk to arduino",
   "main": "dmx.js",
   "scripts": {

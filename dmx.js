@@ -93,3 +93,4 @@ DMXDriver.prototype.setChannels = function(channels, writeValue, callback) {
     }
 }
 
+module.exports = DMXDriver;
